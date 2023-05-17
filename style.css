@@ -1,5 +1,29 @@
 body{
-    background-color:black;
+    background-color:#52734D;
 
-    color:whitesmoke;
+    font-style: bold;
+}
+
+h1{
+    color:#F7DB6A;
+}
+
+h2{
+    color: #FEFFDE;
+}
+
+h3{
+    color:#dcfcd6;
+}
+
+p{
+    color:#DDFFBC;
+}
+
+ul{
+    color:#DDFFBC;
+}
+
+ol{
+    color: #DDFFBC;
 }
